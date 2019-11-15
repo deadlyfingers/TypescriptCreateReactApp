@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TypescriptCreateReactApp/static/css/main.1b7c0de4.chunk.css",
+    "main.js": "/TypescriptCreateReactApp/static/js/main.f2a7632c.chunk.js",
+    "main.js.map": "/TypescriptCreateReactApp/static/js/main.f2a7632c.chunk.js.map",
+    "runtime-main.js": "/TypescriptCreateReactApp/static/js/runtime-main.b492b364.js",
+    "runtime-main.js.map": "/TypescriptCreateReactApp/static/js/runtime-main.b492b364.js.map",
+    "static/js/2.28465cfb.chunk.js": "/TypescriptCreateReactApp/static/js/2.28465cfb.chunk.js",
+    "static/js/2.28465cfb.chunk.js.map": "/TypescriptCreateReactApp/static/js/2.28465cfb.chunk.js.map",
+    "index.html": "/TypescriptCreateReactApp/index.html",
+    "precache-manifest.0fa174469279c3cf51173090841a0778.js": "/TypescriptCreateReactApp/precache-manifest.0fa174469279c3cf51173090841a0778.js",
+    "service-worker.js": "/TypescriptCreateReactApp/service-worker.js",
+    "static/css/main.1b7c0de4.chunk.css.map": "/TypescriptCreateReactApp/static/css/main.1b7c0de4.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b492b364.js",
+    "static/js/2.28465cfb.chunk.js",
+    "static/css/main.1b7c0de4.chunk.css",
+    "static/js/main.f2a7632c.chunk.js"
+  ]
+}
